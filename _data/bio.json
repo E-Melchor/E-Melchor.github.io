@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Emily Melchor",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://e-melchor.github.io/images/ITM 352 Github Profile.jpg",
+    "email": "emi96765@hawaii.edu",
+    "phone": "",
+    "website": "https://e-melchor.github.io",
+    "summary": "I am studying for a B.B.A in Accounting and Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "E-Melchor",
+        "url": "http://github.com/E-Melchor"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "emilymelchor",
+        "url": "www.linkedin.com/in/emily-melchor"
       }
     ]
   },
