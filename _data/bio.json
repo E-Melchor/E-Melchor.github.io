@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "tennis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "random history facts",
       "keywords": [
       ]
     }
@@ -92,19 +90,6 @@
         "Maintained pool area cleanliness and organization",
         "Reserved, confirmed, and cancelled cabana reservations",
         "Supervised the pool slide and enforced safety rules as needed"
-      ]
-    },
-    {
-      "company": "Kalaheo Elementary School A+ After School Program",
-      "position": "Substitute Group Leader",
-      "website": "",
-      "startDate": "2021-03",
-      "endDate": "2021-05",
-      "summary": "",
-      "highlights": [
-        "Supervised groups of 5 to 15 children from grades K-5",
-        "Assisted with homework as needed",
-        "Ensured COVID-19 protocols were being followed"
       ]
     }
   ],
