@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "tennis",
+      "name": "Tennis",
       "keywords": [
       ]
     },
     {
-      "name": "anime",
+      "name": "Anime",
       "keywords": [
       ]
     },
     {
-      "name": "music",
+      "name": "Music",
       "keywords": [
       ]
     }
@@ -90,19 +90,6 @@
         "Maintained pool area cleanliness and organization",
         "Reserved, confirmed, and cancelled cabana reservations",
         "Supervised the pool slide and enforced safety rules as needed"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
       ]
     }
   ],
